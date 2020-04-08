@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hotel
+comment0.text=\r\n\ Returns\ this\ Users\ username.\r\n
+comment1.params=star
+comment1.target=Hotel(int)
+comment1.text=\r\n\ Creates\ a\ Hotel\ object\ with\ an\ array\ full\ of\ Rooms\ using\ the\ int\ passed\ in.\r\n
+numComments=2

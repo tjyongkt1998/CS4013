@@ -1,0 +1,6 @@
+Number,Name,Type,Number of Rooms,Room Types,Room Numbers,Breakfast Included,Checkk In Date,Check Out Date,Number of Nights,Total,Deposit,Balance,Cancel,Checked In, Checked Out
+1,Kitara,Standard,3,Classic Single/Classic Twin/Classic Double,91/46/1,true/false/true,01-01-2020,04-01-2020,3,555,55.5,499.5,FALSE,FALSE,FALSE
+2,George,Standard,1,Classic Single,92,false,01-01-2019,04-01-2019,3,300,30,270,FALSE,FALSE,FALSE
+3,TJ,Standard,1,Classic Twin,47,true,24-10-2019,26-10-2019,2,555,55.5,555,FALSE,FALSE,FALSE
+4,Daniel,Standard,1,Classic Double,2,false,24-10-2019,25-10-2019,1,555,55.5,555,FALSE,FALSE,FALSE
+5,Joe,Standard,1,Classic Double,3,false,23-10-2019,24-10-2019,1,555,55.5,555,FALSE,FALSE,FALSE

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Payment
+comment0.text=\r\n\ Allows\ you\ to\ make\ payments.\r\n
+comment1.params=balance
+comment1.target=double\ makePaymentCustomer(double)
+comment1.text=\r\n\ Allows\ customers\ to\ make\ payment.\ Only\ allows\ them\ to\ pay\ by\ card.\r\n
+comment2.params=balance
+comment2.target=double\ makePayment(double)
+comment2.text=\r\n\ Make\ payment\ by\ cash\ or\ card.\r\n
+comment3.params=balance\ deposit
+comment3.target=double\ depositMakePayment(double,\ double)
+comment3.text=\r\n\ Used\ to\ pay\ deposits.\r\n
+comment4.params=
+comment4.target=void\ cardPayment()
+comment4.text=\r\n\ Allows\ you\ to\ enter\ card\ details.\r\n
+numComments=5

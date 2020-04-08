@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Converter
+comment0.text=\r\n\ Converts\ Stirngs\ into\ other\ types(Just\ to\ save\ time).\r\n
+comment1.params=s
+comment1.target=int\ convertToInt(java.lang.String)
+comment1.text=\r\n\ Converts\ a\ Stirngs\ into\ an\ Int.\r\n
+comment2.params=s
+comment2.target=double\ convertToDouble(java.lang.String)
+comment2.text=\r\n\ Converts\ a\ Stirngs\ into\ a\ Double.\r\n
+comment3.params=s
+comment3.target=boolean\ convertToBoolean(java.lang.String)
+comment3.text=\r\n\ Converts\ a\ Stirngs\ into\ a\ Boolean.\r\n
+comment4.params=y\ m\ d
+comment4.target=java.time.LocalDate\ convertToDate(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Converts\ a\ Stirngs\ into\ a\ Date.\r\n
+comment5.params=s
+comment5.target=Booking\ convertToBooking(java.lang.String)
+comment5.text=\r\n\ Converts\ a\ Stirngs\ into\ a\ Booking.\r\n
+numComments=6

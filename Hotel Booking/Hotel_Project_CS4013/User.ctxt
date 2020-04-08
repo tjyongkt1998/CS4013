@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\r\n\ A\ User\ with\ a\ name,\ username\ and\ password.\r\n
+comment1.params=name\ username\ password
+comment1.target=User(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construcs\ a\ User\ with\ a\ name,\ username\ and\ password.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment2.text=\r\n\ Returns\ this\ Users\ username.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Returns\ this\ Users\ name.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+comment4.text=\r\n\ Returns\ this\ Users\ password.\r\n
+numComments=5

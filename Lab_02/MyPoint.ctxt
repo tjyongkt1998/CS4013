@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyPoint
+comment1.params=
+comment1.target=MyPoint()
+comment2.params=x\ y
+comment2.target=MyPoint(double,\ double)
+comment3.params=
+comment3.target=double\ gX()
+comment4.params=
+comment4.target=double\ gY()
+comment5.params=x\ y
+comment5.target=double\ distance(double,\ double)
+comment6.params=p
+comment6.target=double\ distance(MyPoint)
+numComments=7

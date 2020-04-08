@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TestResult
+comment1.params=
+comment1.target=TestResult()
+comment2.params=i\ value
+comment2.target=void\ setScore(int,\ double)
+comment3.params=i
+comment3.target=double\ getScore(int)
+comment4.params=
+comment4.target=double\ getAverage()
+comment5.params=
+comment5.target=double\ getTotal()
+comment6.params=value
+comment6.target=java.lang.String\ getGrade(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

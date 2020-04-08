@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StudentResult
+comment1.params=ID
+comment1.target=StudentResult(java.lang.String)
+comment2.params=ID\ numOfTests
+comment2.target=StudentResult(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=testID\ value
+comment4.target=void\ addResult(int,\ double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
